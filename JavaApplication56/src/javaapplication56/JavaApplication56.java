@@ -5,6 +5,8 @@
  */
 package javaapplication56;
 
+import java.util.Scanner;
+
 /**
  *
  * @author majedoh
@@ -17,6 +19,7 @@ public class JavaApplication56 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello");
+        Scanner scan = new Scanner(System.in);
     }
     
 }
